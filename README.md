@@ -1,6 +1,6 @@
-HELLO
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-Experienced mathematician with a passion for applying analytical thinking to real-world problems, including some experience as a software tester supporting business decision-making. Eager to transition into data analytics, leveraging mathematical expertise to extract actionable insights from complex data sets. Committed to continuous learning and collaborative teamwork to drive informed decision-making in business environments.
+I'm experienced mathematician with a passion for applying analytical thinking to real-world problems, including some experience as a software tester supporting business decision-making. Currently I explore world of data analytics.
 
 ### 🧐 More About Me:
 
