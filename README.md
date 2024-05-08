@@ -1,6 +1,6 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm experienced mathematician with a passion for applying analytical thinking to real-world problems, including some experience as a software tester supporting business decision-making. Currently I explore world of data analytics.
+I'm Krzysztof Buczyński, an experienced mathematician with a passion for applying analytical thinking to real-world problems.
 
 ### 🧐 More About Me:
 
