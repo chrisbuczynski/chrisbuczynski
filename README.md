@@ -4,8 +4,8 @@ I'm Krzysztof Buczyński, an experienced mathematician with a passion for applyi
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on exploring fascinating world of data science
-- 🌱 &nbsp; I’m currently learning Python 
+- 🔭 &nbsp; I’m currently working on exploring fascinating world of data science  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="SQL"> 
+- 🌱 &nbsp; I’m currently learning <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"> 
 - 💬 &nbsp; Ask me about anything Maths related, I am happy to help;
 - 📫 &nbsp; Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/krzysztof-buczynski/)
 - 📚 &nbsp; When I am free, I explore Norse Mhythology and Runes. I also popularize mathematics as a science about the world and thinking, not as a school monster ;)
