@@ -14,14 +14,14 @@ I'm Krzysztof Buczyński, an experienced mathematician with a passion for applyi
 
 <hr>
 
+### 🛠️ My Projects
+
+<hr>
+
 ### ⚡ Technologies
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        SQL, &nbsp; Python
 - **Data Analysis**:&nbsp;&nbsp;&nbsp;&nbsp;          Excel, &nbsp; Tableau, &nbsp; Maths Statistics
 - **Computer**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                Linux, &nbsp; LaTeX
-
-<hr>
-
-### 🛠️ My Projects
 
 <hr>
 
