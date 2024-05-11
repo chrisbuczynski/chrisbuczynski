@@ -4,24 +4,16 @@ I'm Krzysztof Buczyński, an experienced mathematician with a passion for applyi
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on exploring fascinating world of data science using <img src="[https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white](https://icons8.com/icon/13406/sql)" alt="SQL">  and <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
-- 🌱 &nbsp; I’m currently learning <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+- 🌱 &nbsp; I’m currently exploring fascinating world of data analytics & science  
+- 🔭 &nbsp; I’m currently working as a Maths IB Diploma Teacher
 - 💬 &nbsp; Ask me about anything Maths related, I am happy to help;
 - 📫 &nbsp; Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/krzysztof-buczynski/)
-- 📚 &nbsp; When I am free, I explore Norse Mhythology and Runes. I also popularize mathematics as a science about the world and thinking, not as a school monster ;)
+- 📚 &nbsp; When I am free, I study Norse Mhythology and Runes. I also popularize mathematics as a science about the world and thinking, not as a school monster ;)
 
-<br>
-
+### Skills 🛠️
+- **Languages**:&nbsp;                         SQL, Python
+- **Data Analysis**:  &nbsp;&nbsp;             Excel, Tableau, Maths Statistics
+- **Computer**:    &nbsp;&nbsp;&nbsp;&nbsp;    Linux, LaTeX
 
 ### 🛠️ My Projects
 <a href="https://github.com/" target="_blank"> <img alt="artistify" src="./" height="68" align="left"> </a>
-
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
-  </a>
-</p>
