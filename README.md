@@ -2,6 +2,8 @@
 
 I'm Krzysztof Buczyński, an experienced mathematician with a passion for applying analytical thinking to real-world problems.
 
+<hr>
+
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently exploring fascinating world of data analytics & science  
