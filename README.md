@@ -9,8 +9,8 @@ I'm Krzysztof Buczyński, an experienced mathematician with a passion for applyi
 - 🌱 &nbsp; I’m currently exploring fascinating world of data analytics & science  
 - 🔭 &nbsp; I’m currently working as a Maths IB Diploma Teacher
 - 💬 &nbsp; Ask me about anything Maths related, I am happy to help
-- 📫 &nbsp; Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/krzysztof-buczynski/)
-- 📚 &nbsp; When I am free, I study Norse Mhythology and Runes. I also popularize mathematics as a science about the world and thinking, not as a school monster ;)
+- 📫 &nbsp; Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krzysztof-buczynski/)
+- 📚 &nbsp; When I'm free, I study Norse Mythology and Runes. I also popularize mathematics as a science about the world and thought, not as a school monster ;)
 
 <hr>
 
